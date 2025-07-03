@@ -1,3 +1,4 @@
+import MainLayout from "./components/MainLayout"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <MainLayout />
     </>
   )
 }
